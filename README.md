@@ -5,6 +5,7 @@
 * Curious about how things work, from software to hardware
 * Building projects at the intersection of robotics and engineering
 * FLL participant and aspiring engineer
+* CS50P Student
 * Always experimenting, breaking things, and figuring out why
 
 [technologies]
