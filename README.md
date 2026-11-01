@@ -1,16 +1,30 @@
-## Hi there 👋
+## Okyanus
 
-<!--
-**okyanus-11/okyanus-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[about]
 
-Here are some ideas to get you started:
+* Curious about how things work, from software to hardware
+* Building projects at the intersection of robotics and engineering
+* FLL participant and aspiring engineer
+* Always experimenting, breaking things, and figuring out why
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[technologies]
+
+* Java, Python, C/C++
+* Arduino, Bash, Linux
+* HTML, basic web development
+* Embedded programming and API integration
+
+[hardware & engineering]
+
+* ESP32 and Arduino-based projects
+* Microcontrollers and embedded systems
+* LEGO robotics and mechanical design
+* Electronics, sensors, and hardware experimentation
+
+[interests]
+
+* Linux and open-source software
+* Robotics and automation
+* Physics and engineering
+* Low-level programming
+* Turning random ideas into working projects
