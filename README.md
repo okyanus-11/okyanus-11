@@ -9,14 +9,15 @@
 
 [about]
 
-<img align="right" width="120" src="https://wsrv.nl/?url=github.com/okyanus-11.png&mask=circle" />
+<img align="right" width="120" height="120"
+src="https://wsrv.nl/?url=ssl%3Agithub.com%2Fokyanus-11.png&w=120&h=120&fit=cover&mask=circle" />
 
 * Curious about how things work, from software to hardware
 * Building projects at the intersection of robotics and engineering
 * FLL participant and aspiring engineer
 * CS50P Student
 * Always experimenting, breaking things, and figuring out why
-
+  
 <br>
 
 [technologies]
