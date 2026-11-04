@@ -16,6 +16,10 @@
 
 [technologies]
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,arduino,bash,linux,git,github,vscode" />
+</p>
+
 * Java, Python, C/C++
 * Arduino, Bash, Linux
 * HTML, basic web development
