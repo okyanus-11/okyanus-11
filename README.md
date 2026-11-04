@@ -6,22 +6,21 @@
   <img src="https://img.shields.io/github/followers/okyanus-11?label=FOLLOWERS&style=flat-square&color=1e90ff" />
 </p>
 
-<!-- GITHUB TROPHIES -->
-
-## 🏆 Achievements
+[achievements]
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=okyanus-11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=okyanus-11&theme=tokyonight&no-frame=true&no-bg=true&column=4" width="100%" />
 </p>
-
-<!-- GITHUB STATS -->
-
-## 📊 GitHub Statistics
+[gitHub Statistics]
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=okyanus-11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okyanus-11&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=okyanus-11&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okyanus-11&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
+
+[activity]
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=okyanus-11&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 [about]
 
