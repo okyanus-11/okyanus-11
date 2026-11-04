@@ -28,6 +28,19 @@
 * LEGO robotics and mechanical design
 * Electronics, sensors, and hardware experimentation
 
+[currently building]
+
+* CYD Pocket OS — A custom ESP32 operating environment
+* FLL robotics — Building solutions through LEGO robotics
+* Personal projects — Exploring Python, Java and embedded systems
+
+[currently learning]
+
+* Java and object-oriented programming
+* Python and APIs
+* Linux and system administration
+* Embedded systems
+
 [interests]
 
 * Linux and open-source software
