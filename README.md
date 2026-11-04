@@ -23,19 +23,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okyanus-11&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- CONTRIBUTION GRAPH -->
-
-## 📈 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=okyanus-11&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-<!-- FOOTER -->
-
-<p align="center">
-  <i>Building, experimenting, and learning something new every day.</i>
-</p>
-
-
 [about]
 
 * Curious about how things work, from software to hardware
