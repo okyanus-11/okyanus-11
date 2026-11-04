@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=okyanus-11&theme=tokyonight" width="49%" />
-  <img src="https://ghstats.dev/api/languages?username=okyanus-11&theme=tokyonight&layout=compact" width="49%" />
+  <img src="https://ghstats.dev/api/langs?username=okyanus-11&theme=tokyonight&layout=compact" width="49%" />
 </p>
 
 [contribution activity]
