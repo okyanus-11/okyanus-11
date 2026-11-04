@@ -6,21 +6,11 @@
   <img src="https://img.shields.io/github/followers/okyanus-11?label=FOLLOWERS&style=flat-square&color=1e90ff" />
 </p>
 
-[achievements]
+[gitHub]
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=okyanus-11&theme=tokyonight&no-frame=true&no-bg=true&column=4" width="100%" />
-</p>
-[gitHub Statistics]
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okyanus-11&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okyanus-11&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-[activity]
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=okyanus-11&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+![Followers](https://img.shields.io/github/followers/okyanus-11?style=flat-square&color=blue)
+![Stars](https://img.shields.io/github/stars/okyanus-11?affiliations=OWNER&style=flat-square&color=blue)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/okyanus-11&query=%24.public_repos&label=public%20repos&style=flat-square&color=blue)
 
 [about]
 
