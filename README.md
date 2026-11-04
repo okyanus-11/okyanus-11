@@ -6,11 +6,25 @@
   <img src="https://img.shields.io/github/followers/okyanus-11?label=FOLLOWERS&style=flat-square&color=1e90ff" />
 </p>
 
-[gitHub]
+[github statistics]
 
-![Followers](https://img.shields.io/github/followers/okyanus-11?style=flat-square&color=blue)
-![Stars](https://img.shields.io/github/stars/okyanus-11?affiliations=OWNER&style=flat-square&color=blue)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/okyanus-11&query=%24.public_repos&label=public%20repos&style=flat-square&color=blue)
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=okyanus-11&theme=tokyonight" width="49%" />
+  <img src="https://ghstats.dev/api/languages?username=okyanus-11&theme=tokyonight&layout=compact" width="49%" />
+</p>
+
+[contribution activity]
+
+<p align="center">
+  <img src="https://ghstats.dev/api/sparkline?username=okyanus-11&theme=tokyonight" width="100%" />
+</p>
+
+[achievements]
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/okyanus-11?style=flat-square&color=7aa2f7&label=total%20stars" />
+  <img src="https://img.shields.io/github/followers/okyanus-11?style=flat-square&color=7aa2f7&label=followers" />
+</p>
 
 [about]
 
