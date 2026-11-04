@@ -1,4 +1,5 @@
-##  Okyanus
+## Okyanus
+
 <!-- PROFILE COUNTERS -->
 
 <p align="right">
@@ -14,6 +15,8 @@
 * CS50P Student
 * Always experimenting, breaking things, and figuring out why
 
+<br>
+
 [technologies]
 
 <p align="left">
@@ -25,12 +28,20 @@
 * HTML, basic web development
 * Embedded programming and API integration
 
+<br>
+
 [hardware & engineering]
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
+</p>
 
 * ESP32 and Arduino-based projects
 * Microcontrollers and embedded systems
 * LEGO robotics and mechanical design
 * Electronics, sensors, and hardware experimentation
+
+<br>
 
 [currently building]
 
@@ -38,20 +49,34 @@
 * FLL robotics — Building solutions through LEGO robotics
 * Personal projects — Exploring Python, Java and embedded systems
 
+<br>
+
 [currently learning]
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,linux,git" />
+</p>
 
 * Java and object-oriented programming
 * Python and APIs
 * Linux and system administration
 * Embedded systems
 
+<br>
+
 [interests]
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,github,arduino,cpp" />
+</p>
 
 * Linux and open-source software
 * Robotics and automation
 * Physics and engineering
 * Low-level programming
 * Turning random ideas into working projects
+
+<br>
 
 [github statistics]
 
@@ -60,11 +85,15 @@
   <img src="https://ghstats.dev/api/langs?username=okyanus-11&theme=tokyonight&layout=compact" width="49%" />
 </p>
 
+<br>
+
 [contribution activity]
 
 <p align="center">
   <img src="https://ghstats.dev/api/sparkline?username=okyanus-11&theme=tokyonight" width="100%" />
 </p>
+
+<br>
 
 [achievements]
 
