@@ -9,8 +9,9 @@
 
 [about]
 
-<img align="right" width="120" height="120"
-src="https://wsrv.nl/?url=ssl%3Agithub.com%2Fokyanus-11.png&w=120&h=120&fit=cover&mask=circle" />
+<img align="right" width="155" height="155"
+src="https://wsrv.nl/?url=ssl%3Agithub.com%2Fokyanus-11.png&w=155&h=155&fit=cover&mask=circle"
+style="margin-left: 20px; margin-top: 5px;" />
 
 * Curious about how things work, from software to hardware
 * Building projects at the intersection of robotics and engineering
