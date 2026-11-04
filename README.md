@@ -1,4 +1,7 @@
 ##  Okyanus
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=okyanus-11&label=profile+views&color=1e90ff&style=flat-square" />
+</p>
 
 [about]
 
