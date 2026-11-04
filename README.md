@@ -9,11 +9,22 @@
 
 [about]
 
+<table>
+  <tr>
+    <td width="165" valign="middle">
+      <img src="https://github.com/okyanus-11.png" width="140" />
+    </td>
+    <td valign="middle">
+
 * Curious about how things work, from software to hardware
 * Building projects at the intersection of robotics and engineering
 * FLL participant and aspiring engineer
 * CS50P Student
 * Always experimenting, breaking things, and figuring out why
+
+    </td>
+  </tr>
+</table>
 
 <br>
 
