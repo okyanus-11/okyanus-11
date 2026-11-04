@@ -9,7 +9,7 @@
 
 [about]
 
-<img align="right" src="./assets/avatar-circle.png" width="125" />
+<img align="right" width="120" src="https://wsrv.nl/?url=github.com/okyanus-11.png&mask=circle" />
 
 * Curious about how things work, from software to hardware
 * Building projects at the intersection of robotics and engineering
@@ -17,7 +17,7 @@
 * CS50P Student
 * Always experimenting, breaking things, and figuring out why
 
-  
+<br>
 
 [technologies]
 
