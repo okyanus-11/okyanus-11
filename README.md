@@ -10,8 +10,7 @@
 [about]
 
 <img align="right" width="180" height="180"
-src="https://wsrv.nl/?url=ssl%3Agithub.com%2Fokyanus-11.png&w=180&h=180&fit=cover&mask=circle"
-style="margin-left: 8px; margin-top: 0px;" />
+src="https://wsrv.nl/?url=github.com%2Fokyanus-11.png&w=180&h=180&fit=cover&mask=circle&mtrim&output=png" />
 
 * Curious about how things work, from software to hardware
 * Building projects at the intersection of robotics and engineering
