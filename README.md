@@ -11,7 +11,7 @@
 
 * Curious about how things work, from software to hardware
 * Building projects at the intersection of robotics and engineering
-* FLL participant and aspiring engineer
+* FIRST LEGO League (FLL) | 2026 Engineering Excellence Award Recipient | Turkey Champion
 * CS50P Student
 * Always experimenting, breaking things, and figuring out why
   
