@@ -13,6 +13,7 @@
 * Building projects at the intersection of robotics and engineering
 * FIRST LEGO League (FLL) | 2026 Engineering Excellence Award Recipient | Turkey Champion
 * CS50P Student
+* TI-84 Plus CE-T PYTHON EDITION Owner
 * Always experimenting, breaking things, and figuring out why
   
 <br>
