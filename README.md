@@ -144,7 +144,7 @@ I enjoy working with physical hardware and exploring the relationship between el
 </p>
 
 **FIRST LEGO League — 2026**
-* Engineering Excellence Award
+* Engineering Excellence Award -- USA, Houston - World Championship
 * Turkey Champion
 
 <br>
