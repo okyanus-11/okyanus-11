@@ -71,140 +71,22 @@ I enjoy working with physical hardware and exploring the relationship between el
 
 <br>
 
-[featured projects]
+## [featured projects]
 
-**SeekR**
-<br>
-<a href="https://github.com/okyanus-11/SeekR"><img src="https://img.shields.io/github/stars/okyanus-11/SeekR?style=flat-square&color=7aa2f7" /></a>
-<a href="https://github.com/okyanus-11/SeekR/releases"><img src="https://img.shields.io/github/v/release/okyanus-11/SeekR?style=flat-square&color=7aa2f7" /></a>
+### 🚀 [SeekR](https://github.com/okyanus-11/SeekR)
+A powerful Windows productivity launcher built with Python and PySide6. Features fuzzy search, application and file launching, workflows, a calculator, system tools, notes, widgets, and much more.
 
-A keyboard-first Windows launcher designed to make applications, files, commands, and everyday tools accessible through a single shortcut.
+### 🧠 [WeaverTS](https://github.com/okyanus-11/WeaverTS)
+An experimental language-model training framework built from scratch with Python and PyTorch. Supports configurable Transformer architectures, CUDA acceleration, and models of up to 25 million parameters.
 
-* Built with Python, PySide6, SymPy, psutil, and SQLite.
-* Global hotkey launcher with fuzzy search and typo tolerance.
-* Application discovery, indexed file search, and optional text-content search.
-* Built-in calculator, converters, dictionary, translation, and system tools.
-* Workflows, command chains, notes, tasks, bookmarks, and snippets.
-* Optional widgets for system monitoring, weather, clock, and media.
-* Customizable themes, layouts, and keyboard shortcuts.
-* Automated testing, CI workflows, Windows packaging, and release management.
+### 🖥️ [DeskOS](https://github.com/okyanus-11/DeskOS)
+A modular Windows desktop environment companion built with Python and PySide6. Includes a dashboard, dock, launcher, workspaces, built-in utilities, and a plugin system.
 
-**DeskOS**
-<br>
-<a href="https://github.com/okyanus-11/DeskOS"><img src="https://img.shields.io/github/stars/okyanus-11/DeskOS?style=flat-square&color=7aa2f7" /></a>
+### 🎮 [CYD DOOM](https://github.com/okyanus-11/CYD_DOOM)
+An experimental DOOM adaptation for the ESP32 Cheap Yellow Display. Explores embedded game development, TFT rendering, touchscreen input, and memory optimization.
 
-A Python and PySide6 desktop environment companion for Windows, combining a dashboard, dock, application launcher, command palette, and a collection of integrated utilities.
-
-* Customizable dashboard with draggable widgets and system monitoring.
-* Dock, application launcher, command palette, and workspaces.
-* Integrated applications: DeskFiles, DeskTerminal, DeskMonitor, DeskNotes, DeskClock, and DeskTasks.
-* Optional DeskAI with OpenAI-compatible, Anthropic, and local Ollama providers.
-* Plugin architecture with documented interfaces and example plugins.
-* SQLite database, configuration validation, and backup functionality.
-* Windows installer and Linux development support.
-* Automated test suite and application self-testing.
-
-**QuickStats**
-<br>
-<a href="https://github.com/okyanus-11/QuickStats"><img src="https://img.shields.io/github/stars/okyanus-11/QuickStats?style=flat-square&color=7aa2f7" /></a>
-
-A lightweight Windows desktop dashboard for monitoring system performance and hardware information.
-
-* Live CPU, memory, storage, and network statistics.
-* Hardware information and system uptime.
-* CPU and memory history graphs.
-* Customizable themes and accent colours.
-* Background data collection to keep the interface responsive.
-* Standalone Windows executable and installer.
-
-**WeaverTS**
-
-A from-scratch character-level causal Transformer training project built with Python and PyTorch.
-
-* Configurable model architectures from approximately 6 million to 25 million parameters.
-* CUDA training optimizations and automatic mixed precision.
-* Fused AdamW and scaled dot-product attention when supported.
-* Gradient accumulation and configurable training parameters.
-* Validation-based evaluation and early stopping.
-* Checkpoint export and terminal-based model interaction.
-* Experiments with training data quality, model architecture, and language modeling.
-
-**SystemPlumber**
-
-An experimental Rust command-line project exploring package management and filesystem-root-aware system operations.
-
-* Package metadata synchronization and local catalog searching.
-* Package installation workflow.
-* Configurable target filesystem roots.
-* Safety checks for operations targeting the host filesystem.
-* Rust and Cargo development workflow.
-
-<br>
-
-[embedded systems & hardware projects]
-
-**CYD Pocket OS**
-<br>
-<a href="https://github.com/okyanus-11/CYD_Pocket_OS"><img src="https://img.shields.io/github/stars/okyanus-11/CYD_Pocket_OS?style=flat-square&color=7aa2f7" /></a>
-
-A custom pocket-sized operating environment for the ESP32-2432S028 Cheap Yellow Display.
-
-* Touchscreen-based application launcher.
-* Groq-powered AI interaction.
-* Snake game and clock utilities.
-* Wi-Fi profile switcher.
-* ASCII animation player.
-* PC-to-device messaging through a local Flask server.
-* Custom themes and persistent settings.
-
-**CYD AI Companion**
-<br>
-<a href="https://github.com/okyanus-11/CYD_AI_Companion"><img src="https://img.shields.io/github/stars/okyanus-11/CYD_AI_Companion?style=flat-square&color=7aa2f7" /></a>
-
-An ESP32 touchscreen AI chat experiment integrating external language model APIs.
-
-* Wi-Fi-based communication with the Groq API.
-* Touchscreen chat interface.
-* Persistent theme preferences.
-* HTTPS certificate verification and secure API configuration.
-* Embedded interface and memory optimization.
-
-**CYD Spotify Remote**
-<br>
-<a href="https://github.com/okyanus-11/CYD_Spotify_Remote"><img src="https://img.shields.io/github/stars/okyanus-11/CYD_Spotify_Remote?style=flat-square&color=7aa2f7" /></a>
-
-A touchscreen Spotify controller concept for the ESP32 Cheap Yellow Display.
-
-* ESP32 touchscreen interface.
-* Companion Flask server using Spotipy.
-* Spotify API integration.
-* Local network communication between the device and PC.
-* Album artwork and theme support.
-
-**CYD DOOM**
-<br>
-<a href="https://github.com/okyanus-11/CYD_DOOM"><img src="https://img.shields.io/github/stars/okyanus-11/CYD_DOOM?style=flat-square&color=7aa2f7" /></a>
-
-An adaptation of the DOOM engine for the ESP32-2432S028R Cheap Yellow Display.
-
-* Based on GBADoom and the PrBoom engine.
-* Custom ESP32 platform layer.
-* SPI display rendering and touchscreen input.
-* Memory optimization and dedicated flash partitions.
-* WAD processing tools and persistent save-game storage.
-
-**CYD Local Flask Server**
-<br>
-<a href="https://github.com/okyanus-11/CYD_Local_Flask_Server"><img src="https://img.shields.io/github/stars/okyanus-11/CYD_Local_Flask_Server?style=flat-square&color=7aa2f7" /></a>
-
-A reusable Flask server for communication between ESP32 devices and Windows computers.
-
-* Lightweight JSON-based messaging API.
-* Health checks and message retrieval.
-* Bearer-token authentication for LAN clients.
-* Designed for integration with CYD applications.
-
-<br>
+### 🤖 [CYD AI Companion](https://github.com/okyanus-11/CYD_AI_Companion)
+A touchscreen-based AI assistant built for the ESP32 Cheap Yellow Display. Integrates Wi-Fi connectivity, a chat interface, and the Groq API.
 
 [desktop applications & other projects]
 
