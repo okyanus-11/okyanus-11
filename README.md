@@ -184,7 +184,7 @@ Participating in FIRST LEGO League through robotics, engineering, innovation, an
 **[github statistics]**
 
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=okyanus-11&theme=tokyonight" width="80%" />
+  <img src="https://gitshine.com/card/okyanus-11?theme=tokyonight" width="80%" />
 </p>
 
 <br>
@@ -192,7 +192,7 @@ Participating in FIRST LEGO League through robotics, engineering, innovation, an
 **[contribution activity]**
 
 <p align="center">
-  <img src="https://ghstats.dev/api/sparkline?username=okyanus-11&days=30&width=800&height=120" width="100%" />
+  <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=okyanus-11&theme=tokyo-night" width="100%" />
 </p>
 
 <br>
