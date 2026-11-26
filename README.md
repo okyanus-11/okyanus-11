@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/followers/okyanus-11?label=FOLLOWERS&style=flat-square&color=1e90ff" />
 </p>
 
-[about]
+**[about]**
 
 I'm a student, aspiring engineer, and technology enthusiast interested in understanding how things work — from software engineering and artificial intelligence to electronics, robotics, and embedded systems.
 
@@ -23,8 +23,8 @@ I enjoy building things from scratch, experimenting with unfamiliar technologies
 * Always experimenting, breaking things, troubleshooting, and learning from the process
 
 <br>
-
-[technologies]
+**
+[technologies]**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,rust,js,html,css,arduino,bash,linux,sqlite,git,github,vscode" />
@@ -50,8 +50,8 @@ I enjoy building things from scratch, experimenting with unfamiliar technologies
 * REST APIs, external services, and AI integrations
 
 <br>
-
-[hardware & engineering]
+**
+[hardware & engineering]**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
@@ -71,8 +71,8 @@ I enjoy working with physical hardware and exploring the relationship between el
 
 <br>
 
-[featured projects]
-
+**[featured projects]
+**
 ## 🚀 [SeekR](https://github.com/okyanus-11/SeekR)
 A powerful Windows productivity launcher built with Python and PySide6. Features fuzzy search, application and file launching, workflows, a calculator, system tools, notes, widgets, and much more.
 
@@ -90,7 +90,7 @@ A touchscreen-based AI assistant built for the ESP32 Cheap Yellow Display. Integ
 
 <br>
 
-[desktop applications & other projects]
+**[desktop applications & other projects]**
 
 **Weather App**
 <br>
@@ -133,7 +133,7 @@ A web-based habit tracker built with Node.js, Express, HTML, CSS, and JavaScript
 
 <br>
 
-[robotics & engineering]
+**[robotics & engineering]**
 
 **FIRST LEGO League — THE FLINTSTONES**
 
@@ -146,8 +146,8 @@ Participating in FIRST LEGO League through robotics, engineering, innovation, an
 
 <br>
 
-[currently learning]
-
+**[currently learning]
+**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,rust,linux,git" />
 </p>
@@ -163,8 +163,8 @@ Participating in FIRST LEGO League through robotics, engineering, innovation, an
 
 <br>
 
-[interests]
-
+**[interests]
+**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=linux,github,arduino,cpp,raspberrypi,pytorch" />
 </p>
@@ -181,24 +181,24 @@ Participating in FIRST LEGO League through robotics, engineering, innovation, an
 
 <br>
 
-[github statistics]
-
+**[github statistics]
+**
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=okyanus-11&theme=tokyonight" width="80%" />
 </p>
 
 <br>
 
-[contribution activity]
-
+**[contribution activity]
+**
 <p align="center">
   <img src="https://ghstats.dev/api/sparkline?username=okyanus-11&theme=tokyonight" width="100%" />
 </p>
 
 <br>
 
-[achievements]
-
+**[achievements]
+**
 <p align="center">
   <img src="https://img.shields.io/github/stars/okyanus-11?style=flat-square&color=7aa2f7&label=total%20stars" />
   <img src="https://img.shields.io/github/followers/okyanus-11?style=flat-square&color=7aa2f7&label=followers" />
@@ -210,8 +210,8 @@ Participating in FIRST LEGO League through robotics, engineering, innovation, an
 
 <br>
 
-[philosophy]
-
+**[philosophy]
+**
 > Build, experiment, break, understand, improve, repeat.
 
 I believe the best way to learn technology is to actually work with it. Most of my projects start with curiosity and a question: *What if I tried this?*
