@@ -15,9 +15,9 @@ I enjoy experimenting with different technologies, building things from scratch,
 
 * Interested in software engineering, electronics, robotics, and computer systems
 * FIRST LEGO League (FLL) participant — 2026 FIRST Championship Engineering Excellence Award Recipient | Turkey Champion
-* CS50P student, exploring programming fundamentals and problem-solving through Python
+* CS50P student, exploring computer science and problem-solving through Python
 * Exploring Java, object-oriented programming, and software development
-* Owner of a TI-84 Plus CE-T Python Edition, experimenting with programming on calculator hardware
+* Experimenting with Python on the TI-84 Plus CE-T Python Edition
 * Interested in Linux, open-source software, microcontrollers, and low-level systems
 * Always experimenting, breaking things, troubleshooting, and learning from the process
 
@@ -59,11 +59,20 @@ I enjoy working with physical hardware and exploring the relationship between el
 * Wi-Fi communication and local network-based applications
 * LEGO robotics, mechanical design, and engineering problem-solving
 * Electronics experimentation and hardware-software integration
-* Exploring Raspberry Pi and single-board computer ecosystems
+* Exploring single-board computers and their applications
 
 <br>
 
 [currently building]
+
+**WeaverTS**
+* Developing a small Transformer language model training application from scratch using PyTorch.
+* Exploring model architecture, tokenization, training pipelines, and CUDA acceleration.
+* Working toward support for configurable models of up to 25 million parameters.
+
+**SeekR**
+* Developing a desktop software project with a focus on functionality, reliability, and user experience.
+* Exploring application architecture, performance, and software development workflows.
 
 **CYD Pocket OS**
 * Developing a custom pocket-sized operating environment for the ESP32 Cheap Yellow Display.
@@ -81,10 +90,6 @@ I enjoy working with physical hardware and exploring the relationship between el
 **FLL Robotics**
 * Participating in FIRST LEGO League through robotics, engineering, and collaborative problem-solving.
 * Developing solutions that combine mechanical design, programming, and creative thinking.
-
-**Personal Software Projects**
-* Building applications and experimenting with Python, Java, APIs, Linux, and desktop software.
-* Exploring ways to connect software development with practical engineering applications.
 
 <br>
 
@@ -113,7 +118,7 @@ I enjoy working with physical hardware and exploring the relationship between el
 * **Embedded Systems** — Exploring microcontrollers, firmware, and resource-constrained devices.
 * **Robotics & Automation** — Combining programming, electronics, and mechanical engineering.
 * **Linux & Open Source** — Customization, system internals, and community-driven development.
-* **Artificial Intelligence** — Experimenting with LLMs, APIs, and AI-powered applications.
+* **Artificial Intelligence** — Experimenting with language models, training pipelines, and AI-powered applications.
 * **Computer Hardware** — Understanding processors, memory, electronics, and how computers operate.
 * **Physics & Engineering** — Exploring the principles behind the technologies we use.
 * **Problem Solving** — Taking interesting ideas and turning them into working projects.
@@ -144,7 +149,7 @@ I enjoy working with physical hardware and exploring the relationship between el
 </p>
 
 **FIRST LEGO League — 2026**
-* Engineering Excellence Award -- USA, Houston - World Championship
+* Engineering Excellence Award — FIRST Championship, Houston, USA
 * Turkey Champion
 
 <br>
