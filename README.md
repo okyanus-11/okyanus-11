@@ -71,22 +71,24 @@ I enjoy working with physical hardware and exploring the relationship between el
 
 <br>
 
-## [featured projects]
+[featured projects]
 
-### 🚀 [SeekR](https://github.com/okyanus-11/SeekR)
+## 🚀 [SeekR](https://github.com/okyanus-11/SeekR)
 A powerful Windows productivity launcher built with Python and PySide6. Features fuzzy search, application and file launching, workflows, a calculator, system tools, notes, widgets, and much more.
 
-### 🧠 [WeaverTS](https://github.com/okyanus-11/WeaverTS)
+## 🧠 [WeaverTS](https://github.com/okyanus-11/WeaverTS)
 An experimental language-model training framework built from scratch with Python and PyTorch. Supports configurable Transformer architectures, CUDA acceleration, and models of up to 25 million parameters.
 
-### 🖥️ [DeskOS](https://github.com/okyanus-11/DeskOS)
+## 🖥️ [DeskOS](https://github.com/okyanus-11/DeskOS)
 A modular Windows desktop environment companion built with Python and PySide6. Includes a dashboard, dock, launcher, workspaces, built-in utilities, and a plugin system.
 
-### 🎮 [CYD DOOM](https://github.com/okyanus-11/CYD_DOOM)
+## 🎮 [CYD DOOM](https://github.com/okyanus-11/CYD_DOOM)
 An experimental DOOM adaptation for the ESP32 Cheap Yellow Display. Explores embedded game development, TFT rendering, touchscreen input, and memory optimization.
 
-### 🤖 [CYD AI Companion](https://github.com/okyanus-11/CYD_AI_Companion)
+## 🤖 [CYD AI Companion](https://github.com/okyanus-11/CYD_AI_Companion)
 A touchscreen-based AI assistant built for the ESP32 Cheap Yellow Display. Integrates Wi-Fi connectivity, a chat interface, and the Groq API.
+
+<br>
 
 [desktop applications & other projects]
 
