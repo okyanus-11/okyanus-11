@@ -73,6 +73,9 @@ I enjoy working with physical hardware and exploring the relationship between el
 
 **[featured projects]**
 
+## 🌧️ [DrainSight](https://github.com/okyanus-11/DrainSight)
+An experimental storm-drain image-classification project using a custom-trained YOLO11 model to distinguish open, leaf-clogged, and water-submerged drains.
+
 ## 🚀 [SeekR](https://github.com/okyanus-11/SeekR)
 A powerful Windows productivity launcher built with Python and PySide6. Features fuzzy search, application and file launching, workflows, a calculator, system tools, notes, widgets, and much more.
 
@@ -84,6 +87,9 @@ A modular Windows desktop environment companion built with Python and PySide6. I
 
 ## 🎮 [CYD DOOM](https://github.com/okyanus-11/CYD_DOOM)
 An experimental DOOM adaptation for the ESP32 Cheap Yellow Display. Explores embedded game development, TFT rendering, touchscreen input, and memory optimization.
+
+## 📊 [QuickStats](https://github.com/okyanus-11/QuickStats)
+A Windows desktop system-monitoring dashboard for CPU, memory, storage, network activity, hardware details, and live performance history.
 
 ## 🤖 [CYD AI Companion](https://github.com/okyanus-11/CYD_AI_Companion)
 A touchscreen-based AI assistant built for the ESP32 Cheap Yellow Display. Integrates Wi-Fi connectivity, a chat interface, and the Groq API.
@@ -135,7 +141,7 @@ A web-based habit tracker built with Node.js, Express, HTML, CSS, and JavaScript
 
 **[robotics & engineering]**
 
-**FIRST LEGO League — THE FLINTSTONES**
+**FIRST LEGO League — THE LORAXIANS**
 
 Participating in FIRST LEGO League through robotics, engineering, innovation, and collaborative problem-solving.
 
