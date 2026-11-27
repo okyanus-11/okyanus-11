@@ -96,49 +96,6 @@ A touchscreen-based AI assistant built for the ESP32 Cheap Yellow Display. Integ
 
 <br>
 
-**[desktop applications & other projects]**
-
-**Weather App**
-<br>
-<a href="https://github.com/okyanus-11/weather-app">Repository</a>
-
-A Python command-line application that retrieves live weather information through the OpenWeatherMap API.
-
-**Weather App GUI**
-<br>
-<a href="https://github.com/okyanus-11/weather-app-gui">Repository</a>
-
-A desktop weather application built with Tkinter and OpenWeatherMap.
-
-* City-based weather search.
-* Celsius and Fahrenheit support.
-* Custom themes and accent colours.
-* Background requests to keep the interface responsive.
-
-**Media Visualizer**
-<br>
-<a href="https://github.com/okyanus-11/media_visualizer">Repository</a>
-
-A Tkinter desktop application combining image processing and live audio visualization.
-
-* Image filters including grayscale, sepia, negative, and brightness adjustment.
-* Windows system-audio visualization using WASAPI loopback.
-* Real-time spectrum visualization.
-* Custom themes and persistent appearance settings.
-
-**Habit Quest — Gamified Habit Tracker**
-<br>
-<a href="https://github.com/okyanus-11/gamified-habit-tracker">Repository</a>
-
-A web-based habit tracker built with Node.js, Express, HTML, CSS, and JavaScript.
-
-* Custom habits and daily targets.
-* Experience points and level progression.
-* Local account and session management.
-* Customizable appearance and persistent preferences.
-
-<br>
-
 **[robotics & engineering]**
 
 **FIRST LEGO League — THE LORAXIANS**
